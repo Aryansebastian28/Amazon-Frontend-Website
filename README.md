@@ -1,0 +1,1 @@
+This project is a frontend replica of the Amazon website, created using only HTML and CSS. It faithfully reproduces the layout, styling, and visual elements of the Amazon platform, providing a familiar user experience for browsing products, adding them to the cart, and proceeding to checkout.
